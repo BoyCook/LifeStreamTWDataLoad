@@ -1,0 +1,13 @@
+{
+    "text": "<p>The idea of this object is to mimic the API of the Map object in Java.</p>\n<p>It can be used in the following way:</p>\n<pre class=\"brush: jscript; title: ; notranslate\" title=\"\">\r\nvar myMap = new Map();\r\nmyMap.put('foo', 'bar');\r\nvar bar = myMap.get('foo');\r\n</pre>\n<p>I know this behaviour can also be attained by using an array in the following manner:</p>\n<pre class=\"brush: jscript; title: ; notranslate\" title=\"\">\r\nvar myMap = [];\r\nmyMap['foo'] = 'bar';\r\nvar bar = myMap['foo'];\r\n</pre>\n<p>But I thought it interesting to implement it as a map too.</p>\n<p>The code can be found on github <a href=\"http://github.com/BoyCook/JSLibs\">here</a></p>\n",
+    "modifier": "DataFeed",
+    "tags": ["blog"],
+    "fields": {
+		"date": "2010-10-16T18:01:20+00:00",
+		"modified": "2011-04-01T21:43:52+00:00",
+		"title": "JavaScript Map object implementation",
+		"URL": "http://boycook.wordpress.com/2010/10/16/javascript-map-implementation/",
+		"short_URL": "http://wp.me/p7oJB-1T",
+		"excerpt": "<p>The idea of this object is to mimic the API of the Map object in Java. It can be used in the following way: I know this behaviour can also be attained by using an array in the following manner: &hellip; <a href=\"http://boycook.wordpress.com/2010/10/16/javascript-map-implementation/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+    }
+}

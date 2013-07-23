@@ -1,0 +1,9 @@
+{
+    "text": "RT @frieddiode: @wilw @elonmusk An SQL query walks into a bar, approaches two tables and asks, \"Mind if I join you?\"",
+    "modifier": "DataFeed",
+    "tags": ["tweet"],
+    "fields": {
+        "id_str": "354878329477808128",
+        "created_at": "Wed Jul 10 08:22:41 +0000 2013"
+    }
+}

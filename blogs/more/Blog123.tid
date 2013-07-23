@@ -1,0 +1,13 @@
+{
+    "text": "<p>This is a script written in ruby designed to find a specified node in an XML file, and replace one value with another.</p>\n<p>Usage example:<br />\n<code>changenode /home/me/foo bar.xml name bob john</code> will find all &#8216;name&#8217; nodes in bar.xml and replace &#8216;bob&#8217; with &#8216;john&#8217;</p>\n<p>The code can be found on github <a href=\"http://github.com/BoyCook/Scripts/blob/master/changenode.rb\">here</a></p>\n",
+    "modifier": "DataFeed",
+    "tags": ["blog"],
+    "fields": {
+		"date": "2010-10-17T12:07:23+00:00",
+		"modified": "2010-10-17T12:08:36+00:00",
+		"title": "XML find and change node script",
+		"URL": "http://boycook.wordpress.com/2010/10/17/xml-find-and-change-node-script/",
+		"short_URL": "http://wp.me/p7oJB-1Z",
+		"excerpt": "<p>This is a script written in ruby designed to find a specified node in an XML file, and replace one value with another. Usage example: changenode /home/me/foo bar.xml name bob john will find all &#8216;name&#8217; nodes in bar.xml and replace &hellip; <a href=\"http://boycook.wordpress.com/2010/10/17/xml-find-and-change-node-script/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+    }
+}

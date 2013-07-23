@@ -1,0 +1,13 @@
+{
+    "text": "<p>Continuing on from my RSS reader TiddlyWiki frame of mind, I thought that it would be cool to be able to something similar with writing blogs.</p>\n<p>My idea stems from the fact that TiddlyWiki is perfect for offline working.</p>\n<p>So to set the scenario you you&#8217;re working offline, but you want to write your blog: you may be on the train to work, you may on a bus, you may be in the office where you cannot connect to the internet etc. There are hundreds of different circumstances.</p>\n<p>What I want to create is a plugin that will enable you to write your blog into a tiddler, and then when you&#8217;re online do something like &#8216;click to publish&#8217; and then this will post your blog into your blogging account (e.g. WordPress, blogger etc).</p>\n<p>So I&#8217;m currently trawling the internet looking for any web services that allow you to publish blogs. This way I can create a direct interface in TiddlyWiki and will have no need to create any middleware (or server side code). I&#8217;ve found a few API&#8217;s (WordPress for example has one), but I&#8217;d like to avoid having to write any server side code.</p>\n<p>If anyone has any ideas/resources that they think will help please let me know.</p>\n<p>I&#8217;ll keep you all updated with my progress.</p>\n",
+    "modifier": "DataFeed",
+    "tags": ["blog"],
+    "fields": {
+		"date": "2007-10-01T14:50:53+00:00",
+		"modified": "2007-10-12T10:39:19+00:00",
+		"title": "TiddlyBlogger &#8211; publishing blogs created in TiddlyWiki to online blog",
+		"URL": "http://boycook.wordpress.com/2007/10/01/tiddlyblogger-publishing-blogs-created-in-tiddlywiki-to-online-blog/",
+		"short_URL": "http://wp.me/p7oJB-f",
+		"excerpt": "<p>Continuing on from my RSS reader TiddlyWiki frame of mind, I thought that it would be cool to be able to something similar with writing blogs. My idea stems from the fact that TiddlyWiki is perfect for offline working. So &hellip; <a href=\"http://boycook.wordpress.com/2007/10/01/tiddlyblogger-publishing-blogs-created-in-tiddlywiki-to-online-blog/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+    }
+}

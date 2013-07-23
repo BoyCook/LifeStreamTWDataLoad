@@ -1,0 +1,9 @@
+{
+    "text": "Thanks @charlescare",
+    "modifier": "DataFeed",
+    "tags": ["tweet"],
+    "fields": {
+        "id_str": "357445301755330560",
+        "created_at": "Wed Jul 17 10:22:55 +0000 2013"
+    }
+}

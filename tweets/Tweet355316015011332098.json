@@ -1,0 +1,9 @@
+{
+    "text": "@mahemoff It's also quite cool to use for any other command shortcut",
+    "modifier": "DataFeed",
+    "tags": ["tweet"],
+    "fields": {
+        "id_str": "355316015011332098",
+        "created_at": "Thu Jul 11 13:21:54 +0000 2013"
+    }
+}

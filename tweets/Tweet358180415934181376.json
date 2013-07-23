@@ -1,0 +1,9 @@
+{
+    "text": "@charlescare wow - he's writing test specs already? :-)",
+    "modifier": "DataFeed",
+    "tags": ["tweet"],
+    "fields": {
+        "id_str": "358180415934181376",
+        "created_at": "Fri Jul 19 11:04:00 +0000 2013"
+    }
+}

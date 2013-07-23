@@ -1,0 +1,13 @@
+{
+    "text": "<p>This script will quickly replace the webapp dir of a deployed webapp in tomcat. It scans at your current directory tree for an appropriate artifact.<br />\nIt will look for a target subdirectory, and will try to find a .war file in it (assumes you&#8217;ve build your app with maven).</p>\n<p>The script takes two parameters, &#8216;webapp&#8217; and &#8216;dir&#8217;:</p>\n<ul>\n<li>The first is the name of the webapp deployed in tomcat\n<li>The second is the dir to move into the deployed webapp</li>\n</ul>\n<p>Usage examples:<br />\n<code>ctw myapp mydir</code> will copy mydir into the myapp webapp sitting in tomcat</p>\n<p>NB: all parameters are case insensitive<br />\nThe script can be found on github <a href=\"http://github.com/BoyCook/Scripts/blob/master/ctw\">here</a></p>\n",
+    "modifier": "DataFeed",
+    "tags": ["blog"],
+    "fields": {
+		"date": "2010-10-16T15:03:23+00:00",
+		"modified": "2010-10-16T15:05:12+00:00",
+		"title": "Replace webapp in deployed tomcat",
+		"URL": "http://boycook.wordpress.com/2010/10/16/replace-webapp-in-deployed-tomcat/",
+		"short_URL": "http://wp.me/p7oJB-1F",
+        "excerpt": "<p>This script will quickly replace the webapp dir of a deployed webapp in tomcat. It scans at your current directory tree for an appropriate artifact. It will look for a target subdirectory, and will try to find a .war file &hellip; <a href=\"http://boycook.wordpress.com/2010/10/16/replace-webapp-in-deployed-tomcat/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+    }
+}
