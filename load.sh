@@ -25,7 +25,7 @@ function load_dir() {
 
 # ContentType - File - Bag - Name
 function load_file() {	
-	curl -X PUT -H "Content-Type: $1" -d "@$2" http://$HOST/bags/$3/tiddlers/$4
+	curl -X PUT -H "Content-Type: $1" --data-binary "@$2" http://$HOST/bags/$3/tiddlers/$4
 }
 
 # load_dir bags 6

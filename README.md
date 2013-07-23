@@ -1,6 +1,7 @@
-LifeStreamTWDataLoad
-====================
+## About
 
-curl script for loading data
+curl script for loading data to TiddlyWeb version of the LifeStream app
 
-sh load.sh
+## Usage
+
+	sh load.sh
