@@ -3,9 +3,9 @@
 HOST=127.0.0.1:8080
 
 # Create bags - todo use load_dir
-# curl -X PUT -H 'Content-Type: application/json' -d @bags/tweets.json http://$HOST/bags/tweets
-# curl -X PUT -H 'Content-Type: application/json' -d @bags/blogs.json http://$HOST/bags/blogs
-# curl -X PUT -H 'Content-Type: application/json' -d @bags/blogs.json http://$HOST/bags/static
+curl -X PUT -H 'Content-Type: application/json' -d @bags/tweets.json http://$HOST/bags/tweets
+curl -X PUT -H 'Content-Type: application/json' -d @bags/blogs.json http://$HOST/bags/blogs
+curl -X PUT -H 'Content-Type: application/json' -d @bags/blogs.json http://$HOST/bags/static
 
 function load_dir() {	
 	DIR=$1
@@ -29,8 +29,8 @@ function load_file() {
 }
 
 # load_dir bags 6
-# load_dir tweets 23
-# load_dir blogs 7
+load_dir tweets 23
+load_dir blogs 7
 
 load_file image/jpeg static/images/craig.jpg static craig.jpg
 
