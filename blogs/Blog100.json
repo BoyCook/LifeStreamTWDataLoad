@@ -1,11 +1,11 @@
 {
     "text": "<p>This script is designed to work with OS X and will copy the specified dir into the users local sites dir.<br />\nIt looks for the specified dir, and if it exists copies it into apache. If the dir already exists in apache, it first deletes it.<br />\nThe script takes one parameter, &#8216;dir&#8217; which is the dir name.</p>\n<p>Usage examples:<br />\n<code>ca mywebapp</code> copies dir mywebapp into $HOME/sites/mywebapp</p>\n<p>NB: all parameters are case insensitive<br />\nThe script can be found on github <a href=\"http://github.com/BoyCook/Scripts/blob/master/ca\">here</a></p>\n",
     "modifier": "DataFeed",
-    "tags": ["tweet"],
+    "tags": ["blog"],
     "fields": {
 		"date": "2010-10-16T14:05:14+00:00",
 		"modified": "2010-10-16T15:05:56+00:00",
-		"title": "Copy to apache script",
+		"blog_title": "Copy to apache script",
 		"URL": "http://boycook.wordpress.com/2010/10/16/copy-to-apache-script/",
 	  	"short_URL": "http://wp.me/p7oJB-1C",
         "excerpt": "<p>This script is designed to work with OS X and will copy the specified dir into the users local sites dir. It looks for the specified dir, and if it exists copies it into apache. If the dir already exists &hellip; <a href=\"http://boycook.wordpress.com/2010/10/16/copy-to-apache-script/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n"

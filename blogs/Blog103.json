@@ -5,7 +5,7 @@
     "fields": {
 		"date": "2010-10-16T15:03:23+00:00",
 		"modified": "2010-10-16T15:05:12+00:00",
-		"title": "Replace webapp in deployed tomcat",
+		"blog_title": "Replace webapp in deployed tomcat",
 		"URL": "http://boycook.wordpress.com/2010/10/16/replace-webapp-in-deployed-tomcat/",
 		"short_URL": "http://wp.me/p7oJB-1F",
         "excerpt": "<p>This script will quickly replace the webapp dir of a deployed webapp in tomcat. It scans at your current directory tree for an appropriate artifact. It will look for a target subdirectory, and will try to find a .war file &hellip; <a href=\"http://boycook.wordpress.com/2010/10/16/replace-webapp-in-deployed-tomcat/\">Continue reading <span class=\"meta-nav\">&rarr;</span></a></p>\n"
