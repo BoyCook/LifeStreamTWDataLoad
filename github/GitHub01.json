@@ -2,7 +2,6 @@
     "text": "Node.js configuration for session with redis",
     "modifier": "DataFeed",
     "tags": ["github"],
-    "created": "2012-11-18T22:55:06Z",
     "fields": {
         "git_type": "gist",
         "description": "Node.js configuration for session with redis",
