@@ -2,6 +2,7 @@
     "text": "Parrot",
     "modifier": "DataFeed",
     "tags": ["github"],
+    "created": "2012-06-22T15:38:14Z",
     "fields": {
         "git_type": "repsository",
         "name": "Parrot",
