@@ -3,6 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["blog"],
     "fields": {
+        "sort_filter": "2010-10-16T15:05:56+00:00",
 		"date": "2010-10-16T14:05:14+00:00",
 		"modified": "2010-10-16T15:05:56+00:00",
 		"blog_title": "Copy to apache script",

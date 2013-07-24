@@ -3,6 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["tweet"],
     "fields": {
+        "sort_filter": "Fri Jul 19 11:04:00 +0000 2013",
         "id_str": "358180415934181376",
         "created_at": "Fri Jul 19 11:04:00 +0000 2013"
     }

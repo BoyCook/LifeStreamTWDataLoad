@@ -3,6 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
+        "sort_filter": "2013-05-12T20:22:04Z",
         "git_type": "repsository",
         "name": "ProjectCodesStub",
         "description": "Stub Service for Project Codes",

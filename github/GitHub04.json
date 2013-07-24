@@ -3,6 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
+        "sort_filter": "2012-11-06T16:44:27Z",
         "git_type": "repsository",
         "name": "Parrot",
         "description": "Parrot Object REST Model",

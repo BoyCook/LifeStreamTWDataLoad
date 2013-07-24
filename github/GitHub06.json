@@ -3,6 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
+        "sort_filter": "2013-04-17T17:27:16Z",
         "git_type": "repsository",
         "name": "RockPaperScissorsLizardSpock",
         "description": "Rock Paper Scissors Lizard Spock",

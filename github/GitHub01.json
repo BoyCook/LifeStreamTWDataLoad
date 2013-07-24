@@ -3,6 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
+        "sort_filter": "2012-11-18T22:55:06Z",
         "git_type": "gist",
         "description": "Node.js configuration for session with redis",
         "created_at": "2012-11-18T22:55:06Z",
