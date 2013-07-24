@@ -1,0 +1,16 @@
+{
+    "recipe": [
+        ["blogs", "sort:created"],
+        ["github", "sort:created"],
+        ["tweets", "sort:created"]
+    ],
+    "policy": {
+        "read": [], 
+        "write": [],
+        "create": [],
+        "delete": [],
+        "manage": [],
+        "owner": ""
+    },
+    "desc": "Sorted feed of all data"
+}
