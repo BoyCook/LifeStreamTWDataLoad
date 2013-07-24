@@ -3,7 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
-        "type": "gist",
+        "git_type": "gist",
         "description": "Node.js configuration for session with redis",
         "created_at": "2012-11-18T22:55:06Z",
         "updated_at": "2012-11-18T22:55:06Z",
@@ -11,7 +11,7 @@
         "files": {
             "node_session_redis.js": {
                 "filename": "node_session_redis.js",
-                "type": "application/javascript",
+                "file_type": "application/javascript",
                 "language": "JavaScript",
                 "raw_url": "https://gist.github.com/raw/4107969/c80541ac66420b1b3edf542e995a3f83c2dc62ad/node_session_redis.js",
                 "size": 294

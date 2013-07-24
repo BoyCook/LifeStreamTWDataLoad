@@ -3,7 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
-        "type": "gist",
+        "git_type": "gist",
         "created_at": "2013-01-21T16:52:13Z",
         "updated_at": "2013-01-21T17:06:34Z",
         "description": "Node.js express server.js defaults",
@@ -11,7 +11,7 @@
         "files": {
             "express_server.js": {
                 "filename": "express_server.js",
-                "type": "application/javascript",
+                "file_type": "application/javascript",
                 "language": "JavaScript",
                 "raw_url": "https://gist.github.com/raw/4587392/14e21f34dc74f2798ed5bbe0c44c1355a84aa235/express_server.js",
                 "size": 544

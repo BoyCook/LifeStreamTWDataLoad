@@ -3,7 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
-        "type": "repsository",
+        "git_type": "repsository",
         "name": "Parrot",
         "description": "Parrot Object REST Model",
         "html_url": "https://github.com/BoyCook/Parrot",

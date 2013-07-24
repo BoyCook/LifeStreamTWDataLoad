@@ -3,7 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
-        "type": "repsository",
+        "git_type": "repsository",
         "name": "RockPaperScissorsLizardSpock",
         "description": "Rock Paper Scissors Lizard Spock",
         "html_url": "https://github.com/BoyCook/RockPaperScissorsLizardSpock",

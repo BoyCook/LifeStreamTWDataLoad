@@ -3,7 +3,7 @@
     "modifier": "DataFeed",
     "tags": ["github"],
     "fields": {
-        "type": "gist",
+        "git_type": "gist",
         "created_at": "2013-01-23T14:07:19Z",
         "updated_at": "2013-03-29T17:04:44Z",
         "description": "Makefile for Node.js projects",
@@ -11,7 +11,7 @@
         "files": {
             "node_makefile": {
                 "filename": "node_makefile",
-                "type": "text/plain",
+                "file_type": "text/plain",
                 "language": null,
                 "raw_url": "https://gist.github.com/raw/4606004/ed0482fa8bd05c5b13bef6ebff89bf0d63d05c59/node_makefile",
                 "size": 470

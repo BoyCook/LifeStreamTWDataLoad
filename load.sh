@@ -45,11 +45,15 @@ function load_statics() {
 function load_bags() {
 	load_bag application/json bags/tweets.json tweets
 	load_bag application/json bags/blogs.json blogs
+	load_bag application/json bags/github.json github
 	load_bag application/json bags/static.json static
 }
 
-load_bags
-load_statics
-load_dir tweets 23
-load_dir blogs 7
+#load_bags
+#load_statics
+#load_dir tweets 23
+#load_dir blogs 7
+#load_dir github 8
 
+load_bag application/json bags/github.json github
+load_dir github 8
