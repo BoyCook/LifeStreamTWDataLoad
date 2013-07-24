@@ -7,6 +7,11 @@ function load_bag() {
 	curl -X PUT -H "Content-Type: $1" --data-binary "@$2" http://$HOST/bags/$3
 }
 
+# ContentType - File - Recipe
+function load_recipe() {
+	curl -X PUT -H "Content-Type: $1" --data-binary "@$2" http://$HOST/recipes/$3
+}
+
 # ContentType - File - Bag - Name
 function load_tiddler() {	
 	curl -X PUT -H "Content-Type: $1" --data-binary "@$2" http://$HOST/bags/$3/tiddlers/$4
@@ -50,10 +55,8 @@ function load_bags() {
 }
 
 #load_bags
+load_recipe application/json recipes/feed.json feed
 #load_statics
 #load_dir tweets 23
 #load_dir blogs 7
-#load_dir github 8
-
-load_bag application/json bags/github.json github
 load_dir github 8

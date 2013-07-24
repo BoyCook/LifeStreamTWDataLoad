@@ -1,8 +1,8 @@
 {
     "recipe": [
-        ["blogs", "sort:created"],
-        ["github", "sort:created"],
-        ["tweets", "sort:created"]
+        ["blogs", "sort:-modified"],
+        ["github", "sort:-pushed_at"],
+        ["tweets", "sort:-created_at"]
     ],
     "policy": {
         "read": [], 
