@@ -56,7 +56,7 @@ function load_bags() {
 
 # load_bags
 load_recipe application/json recipes/feed.json feed
-load_recipe application/json recipes/feed_sorted.json feed_sorted
+# load_recipe application/json recipes/feed_sorted.json feed_sorted
 #load_statics
 # load_dir tweets 23
 # load_dir blogs 7
